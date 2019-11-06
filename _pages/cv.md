@@ -33,9 +33,10 @@ Skills
 Teaching
 ======
 * Teaching Assistant for undergraduate courses:
+    *Economic Statistics
     *Introductory Microeconomics 
     *Introductory Macroeconomics 
-    *Economic Statistics
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
